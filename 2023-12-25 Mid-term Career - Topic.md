@@ -1,0 +1,62 @@
+## Before Diving
+- Why do we need to think about the career?
+	- Pining the goal and guiding the direction when we are losing.
+	- Sometimes, we need to use these to confirm the jobs are good for company and ourselves.
+		- If those are not, then you will find better work or seek other opportunities.
+	- And then...?
+		- You can optimize the resource arrangement no matter the time or energy.
+			- Generally, you would be happier when you know what you want to do next day.
+				- You can control and distribute the resources for it.
+
+## Let's get starting
+- Start from 3 questions
+	- Where do you want to go?
+	- When do you plan to go?
+	- What's the gap between reality and expectation?
+- For example,
+	- Being a senior is a milestone to provide a bigger impact on the community/company/group of people surrounding me.
+		- so we know being a senior is the milestone instead of the goal.
+			- Is there any other possibility to contribute to the goal `bigger impact` here?
+				- Scientist? => It expects me to get back to school study and do the researches.
+				- Sociologist => nope, I want to be more technician a bit not just directly jump into the question.
+				- ...
+		- How long do I plan to achieve it?
+			- I believe it's hard to get the space after 40. -> Actually it's not the real.
+				- If I want to be CTO, then I have 2 plans (eventually, we can say it's the one.)
+					- I found the company, and as technical founder absolutely would be the CTO.
+					- I entered the company and climbed the engineering ladder (then job hop to get the CTO position or found the company 😊)
+				- 16 = 40 - 24, I have 16 years and I divide it by 4(sr. -> staff -> principal -> CTO). -> 4 years.
+		- What's the gap between reality and expectation
+			- expectation
+				- Hard skill
+					- write the JavaScript as my mother tongue.
+						- History of the language
+						- Compiler and Interpreter
+						- Runtime Environment aka V8 or browser
+					- layout page with great maintenance and reduce the styling time.
+						- UI best practice
+						- UX suggestion
+						- Paint and Flow mechanism
+						- Semantic tag and basic CSS properties.
+					- write high-quality code with proper design.
+						- Pseudo code
+						- Flow chart
+						- Design Pattern
+						- Clean Code principal
+						- System Design
+						- Test Strategy
+						- *Clean Architecture
+				- Soft Skill
+					- Project Management
+					- Design Thinking
+					- Relationship Management
+			- planning how to learn for each topic.
+				- Reading books, blogs, newsletters.
+				- Reading more source code from open source @ github.
+				- Watching conference video in youtube.
+				- Write codes after completely thinking.
+				- Try to use ALL I learn in work and side projects.
+
+## Conclusion
+	- You can arrive everywhere you plan to go.
+	- Think the way consciously, and try it hard. We all have the opportunity to choose.
