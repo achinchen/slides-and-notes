@@ -1,5 +1,3 @@
-## Knowledge - Clean Code - 原則在遵守時候的 N 不 M 沒有
-
 ## Before Diving
 
 ### Why do we need the clean code?
