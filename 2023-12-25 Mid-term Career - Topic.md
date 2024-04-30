@@ -58,5 +58,5 @@
 				- Try to use ALL I learn in work and side projects.
 
 ## Conclusion
-	- You can arrive everywhere you plan to go.
-	- Think the way consciously, and try it hard. We all have the opportunity to choose.
+- You can arrive everywhere you plan to go.
+- Think the way consciously, and try it hard. We all have the opportunity to choose.
