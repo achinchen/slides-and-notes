@@ -3,16 +3,16 @@
 ## Before Diving
 
 ### Why do we need the clean code?
-  - Increase the jobs for the future ME/US.
-		- isolate feature side effects.
+- Increase the jobs for the future ME/US.
+  - isolate feature side effects.
 
 ### Why do you want to know what the clean code is?
-	- readability
-	- maintability
-	- testability
-	- without unexpectedly side effect.
-	- extendability
-	- * single responsibility
+- readability
+- maintability
+- testability
+- without unexpectedly side effect.
+- extendability
+- * single responsibility
 
 
 ## Let's try to definite it togather
